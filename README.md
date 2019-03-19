@@ -7,4 +7,4 @@ Put the passwords you want to check in a .txt file named passwords in the same d
 python pwned.py
 ```
 #
-it uses have [haveibeenpwned](haveibeenpwned.com) to check your list of passwords againt their database.
+it uses [haveibeenpwned](haveibeenpwned.com) to check your list of passwords againt their database.
